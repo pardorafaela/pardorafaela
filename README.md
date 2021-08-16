@@ -22,7 +22,9 @@ Backend JAVA Developer and AWS CLOUD  👩‍💻 :cloud:
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"></code>
 
-- Thanks for visiting. <code><img alingn="center" src="https://profile-counter.glitch.me/pardorafaela/count.svg" /></code>
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/pardorafaela/pardorafaela)](https://badges.pufler.dev)
 
 
 
