@@ -24,6 +24,10 @@ Backend JAVA Developer and AWS CLOUD  👩‍💻 :cloud:
 
 
 
+
+
+Have an octotastic day!!!
+
 [![Visits Badge](https://badges.pufler.dev/visits/pardorafaela/pardorafaela)](https://badges.pufler.dev)
 
 
