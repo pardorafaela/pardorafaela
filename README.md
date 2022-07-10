@@ -2,8 +2,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://br.linkedin.com/in/rafaela-pardo-0521b4148)](https://br.linkedin.com/in/rafaela-pardo-0521b4148)
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white&link=https://www.instagram.com/pardorafaela/?hl=pt)](https://www.instagram.com/pardorafaela/?hl=pt)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pardorafaela)](https://github.com/pardorafaela)
+
 
 
 ## About me 
@@ -14,7 +15,6 @@ Backend JAVA Developer and AWS CLOUD  👩‍💻 :cloud:
 
 Have an octotastic day!!!
 
-[![Visits Badge](https://badges.pufler.dev/visits/pardorafaela/pardorafaela)](https://badges.pufler.dev)
 
 
 
